@@ -1,4 +1,4 @@
-package ie.atu.week3.payment_3;
+package ie.atu.week3.payment_3.DTO;
 
 
 import jakarta.validation.Valid;
